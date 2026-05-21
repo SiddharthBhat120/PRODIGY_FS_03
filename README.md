@@ -9,10 +9,13 @@ A full-stack e-commerce platform for a PC Gaming store built with React, Node.js
 ## 📸 Screenshots
 
 ### Home Page
-![Home](./screenshots/home.png)
+![Home1](./screenshots/home1.png)
+![Home2](./screenshots/home2.png)
+![Home3](./screenshots/home3.png)
 
 ### Store / Products
-![Store](./screenshots/store.png)
+![Store1](./screenshots/store1.png)
+![Store2](./screenshots/store2.png)
 
 ### Product Details
 ![Product](./screenshots/product.png)
